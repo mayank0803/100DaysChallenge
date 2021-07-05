@@ -1,11 +1,11 @@
 # 100 days challenge 👋
-### Hi there, I'm <Name>- aka [username] 👋
+### Hi there, I'm <Name>- Mayank Sharma [mayank0803] 👋
 
-### I'm a Student, Developer, and Graphic Designer!!
+### I'm a Student and Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute more to Open Source projects
-- 🥅 2021 Goals: Land a job at Google
+- 🥅 2021 Goals: More Productivity
 - ⚡ Fun fact: I love to design and watch movies
 
 ## About this challenge:
@@ -22,8 +22,8 @@ I am starting this challenge on Jul 5 2021 .
 
 ### Connect with me:
 
-[<img align="left" alt="grapherr_10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codex-99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="grapherr_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="grapherr_10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codex-99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="grapherr_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />

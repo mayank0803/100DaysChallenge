@@ -1,3 +1,5 @@
+// kal karunga
+
 #include"bits/stdc++.h"
 using namespace std;
 int main(){
